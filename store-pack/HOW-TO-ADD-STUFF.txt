@@ -1,0 +1,14 @@
+HOW TO ADD STUFF (#@$% STUDIOS pages) - just upload files to GitHub, no code
+Newest uploads always show first.
+
+WORK  ->  work/<Photography or Film or Design>/<Project Name (2025)>/
+          put photos (.jpg .png .webp) and videos (.mp4) in that folder
+          first photo (or cover.jpg) = thumbnail
+          optional: info.txt (description), video.txt (YouTube/Vimeo links, one per line)
+BRANDS -> brands/   drop logo images. File name = brand name (Nike.png)
+PRODUCTS -> products/   drop photos named "Product Name - $20.jpg"
+WORDS (about, services, tagline, contact email) -> the EDIT ME box at the top of index.html
+
+On GitHub: open the folder > Add file > Upload files > drag your photos > Commit changes.
+To make a new project folder: Add file > Create new file > type  work/Film/My Project (2025)/info.txt  and write the description.
+(Works on your live github.io site only. Wait ~1 minute after uploading.)
